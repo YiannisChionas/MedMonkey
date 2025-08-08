@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_list"
+        android:icon="@drawable/clipboard"
+        android:title="Φάρμακα" />
+    <item android:id="@+id/nav_add"
+        android:icon="@drawable/add"
+        android:title="Προσθήκη" />
+    <item android:id="@+id/nav_export"
+        android:icon="@drawable/file"
+        android:title="Εξαγωγή" />
+    <item
+        android:id="@+id/nav_test_cp"
+        android:icon="@drawable/ic_test"
+        android:title="Test CP" />
+</menu>

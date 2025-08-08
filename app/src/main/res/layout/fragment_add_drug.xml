@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_margin="25dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewInputName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Short Name:"
+        android:labelFor="@id/textViewInputName"
+        android:layout_marginTop="40dp"
+        app:layout_constraintStart_toStartOf="@+id/textViewTitle"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitle" />
+
+    <EditText
+        android:id="@+id/textViewLabelName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Xanax"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewInputName"
+        app:layout_constraintEnd_toEndOf="@+id/textViewTitle"
+        app:layout_constraintStart_toEndOf="@+id/textViewInputName"
+        app:layout_constraintTop_toTopOf="@+id/textViewInputName" />
+
+    <TextView
+        android:id="@+id/textViewLabelDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description:"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="@+id/textViewInputName"
+        app:layout_constraintStart_toStartOf="@+id/textViewInputName"
+        app:layout_constraintTop_toBottomOf="@+id/textViewInputName" />
+
+    <EditText
+        android:id="@+id/textViewInputDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Άγχος"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewLabelDescription"
+        app:layout_constraintStart_toStartOf="@+id/textViewLabelName"
+        app:layout_constraintTop_toTopOf="@+id/textViewLabelDescription" />
+
+    <TextView
+        android:id="@+id/textViewLabelStartDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Date:"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="@+id/textViewLabelDescription"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLabelDescription" />
+
+    <EditText
+        android:id="@+id/textViewInputStartDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="none"
+        android:focusable="false"
+        android:hint="Select Date"
+        android:drawableRight="@drawable/ic_calendar"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewLabelStartDate"
+        app:layout_constraintEnd_toEndOf="@+id/textViewInputDescription"
+        app:layout_constraintStart_toStartOf="@+id/textViewInputDescription"
+        app:layout_constraintTop_toTopOf="@+id/textViewLabelStartDate" />
+
+    <TextView
+        android:id="@+id/textViewLabelEndDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="End Date:"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="@+id/textViewLabelStartDate"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLabelStartDate" />
+
+    <EditText
+        android:id="@+id/textViewInputEndDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="none"
+        android:focusable="false"
+        android:hint="Select Date"
+        android:drawableRight="@drawable/ic_calendar"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewLabelEndDate"
+        app:layout_constraintEnd_toEndOf="@+id/textViewInputStartDate"
+        app:layout_constraintStart_toStartOf="@+id/textViewInputStartDate"
+        app:layout_constraintTop_toTopOf="@+id/textViewLabelEndDate" />
+
+    <TextView
+        android:id="@+id/textViewLabelTimeTerm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Time term:"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="@+id/textViewLabelEndDate"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLabelEndDate" />
+
+    <Spinner
+        android:id="@+id/spinnerTimeTerm"
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewLabelTimeTerm"
+        app:layout_constraintEnd_toEndOf="@+id/textViewInputEndDate"
+        app:layout_constraintStart_toStartOf="@+id/textViewInputEndDate"
+        app:layout_constraintTop_toTopOf="@+id/textViewLabelTimeTerm" />
+
+    <TextView
+        android:id="@+id/textViewLabelDoctorName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Doctor Name:"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="@+id/textViewLabelTimeTerm"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLabelTimeTerm" />
+
+    <EditText
+        android:id="@+id/textViewInputDoctorName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Δρ. Μπαμπινιώτης"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewLabelDoctorName"
+        app:layout_constraintStart_toStartOf="@+id/textViewInputEndDate"
+        app:layout_constraintTop_toTopOf="@+id/textViewLabelDoctorName" />
+    <TextView
+        android:id="@+id/textViewLabelDoctorLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Doctor Location:"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="@+id/textViewLabelDoctorName"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLabelDoctorName" />
+
+    <EditText
+        android:id="@+id/textViewInputDoctorLocation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:clickable="true"
+        android:focusable="false"
+        android:hint="Επιλέξτε τοποθεσία"
+        android:drawableRight="@drawable/ic_location_pin"
+        android:inputType="none"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:singleLine="true"
+        app:layout_constraintTop_toTopOf="@+id/textViewLabelDoctorLocation"
+        app:layout_constraintBottom_toBottomOf="@+id/textViewLabelDoctorLocation"
+        app:layout_constraintStart_toStartOf="@+id/textViewInputDoctorName"
+        app:layout_constraintEnd_toEndOf="@+id/textViewInputDoctorName"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="Submit"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="@+id/textViewInputDoctorLocation"
+        app:layout_constraintStart_toStartOf="@+id/textViewLabelDoctorLocation"
+        app:layout_constraintTop_toBottomOf="@+id/textViewInputDoctorLocation" />
+</androidx.constraintlayout.widget.ConstraintLayout>

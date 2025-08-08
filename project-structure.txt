@@ -1,0 +1,1183 @@
+Folder PATH listing for volume Windows
+Volume serial number is 7059-41B7
+C:.
+¦   .gitignore
+¦   build.gradle
+¦   gradle.properties
+¦   gradlew
+¦   gradlew.bat
+¦   local.properties
+¦   project-structure.txt
+¦   settings.gradle
+¦   
++---.gradle
+¦   ¦   config.properties
+¦   ¦   file-system.probe
+¦   ¦   
+¦   +---8.13
+¦   ¦   ¦   gc.properties
+¦   ¦   ¦   
+¦   ¦   +---checksums
+¦   ¦   ¦       checksums.lock
+¦   ¦   ¦       md5-checksums.bin
+¦   ¦   ¦       sha1-checksums.bin
+¦   ¦   ¦       
+¦   ¦   +---executionHistory
+¦   ¦   ¦       executionHistory.bin
+¦   ¦   ¦       executionHistory.lock
+¦   ¦   ¦       
+¦   ¦   +---expanded
+¦   ¦   +---fileChanges
+¦   ¦   ¦       last-build.bin
+¦   ¦   ¦       
+¦   ¦   +---fileHashes
+¦   ¦   ¦       fileHashes.bin
+¦   ¦   ¦       fileHashes.lock
+¦   ¦   ¦       resourceHashesCache.bin
+¦   ¦   ¦       
+¦   ¦   +---vcsMetadata
+¦   +---buildOutputCleanup
+¦   ¦       buildOutputCleanup.lock
+¦   ¦       cache.properties
+¦   ¦       outputFiles.bin
+¦   ¦       
+¦   +---vcs-1
+¦           gc.properties
+¦           
++---.idea
+¦   ¦   .gitignore
+¦   ¦   .name
+¦   ¦   AndroidProjectSystem.xml
+¦   ¦   assetWizardSettings.xml
+¦   ¦   compiler.xml
+¦   ¦   deploymentTargetSelector.xml
+¦   ¦   deviceManager.xml
+¦   ¦   gradle.xml
+¦   ¦   migrations.xml
+¦   ¦   misc.xml
+¦   ¦   runConfigurations.xml
+¦   ¦   workspace.xml
+¦   ¦   
+¦   +---caches
+¦           deviceStreaming.xml
+¦           
++---app
+¦   ¦   .gitignore
+¦   ¦   build.gradle
+¦   ¦   proguard-rules.pro
+¦   ¦   
+¦   +---build
+¦   ¦   +---generated
+¦   ¦   ¦   +---ap_generated_sources
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---out
+¦   ¦   ¦   ¦           +---com
+¦   ¦   ¦   ¦               +---example
+¦   ¦   ¦   ¦                   +---medmonkey
+¦   ¦   ¦   ¦                       +---data
+¦   ¦   ¦   ¦                           +---local
+¦   ¦   ¦   ¦                               ¦   AppDatabase_Impl.java
+¦   ¦   ¦   ¦                               ¦   
+¦   ¦   ¦   ¦                               +---dao
+¦   ¦   ¦   ¦                                       PrescriptionDrugDao_Impl.java
+¦   ¦   ¦   ¦                                       TimeTermDao_Impl.java
+¦   ¦   ¦   ¦                                       
+¦   ¦   ¦   +---res
+¦   ¦   ¦       +---pngs
+¦   ¦   ¦       ¦   +---debug
+¦   ¦   ¦       +---resValues
+¦   ¦   ¦           +---debug
+¦   ¦   +---intermediates
+¦   ¦   ¦   +---aar_metadata_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---checkDebugAarMetadata
+¦   ¦   ¦   +---annotation_processor_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---javaPreCompileDebug
+¦   ¦   ¦   ¦               annotationProcessors.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---apk
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦           app-debug.apk
+¦   ¦   ¦   ¦           output-metadata.json
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---apk_ide_redirect_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---createDebugApkListingFileRedirect
+¦   ¦   ¦   ¦               redirect.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---app_metadata
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---writeDebugAppMetadata
+¦   ¦   ¦   ¦               app-metadata.properties
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugAssets
+¦   ¦   ¦   +---compatible_screen_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---createDebugCompatibleScreenManifests
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---compile_and_runtime_not_namespaced_r_class_jar
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               R.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---compressed_assets
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---compressDebugAssets
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---data_binding_layout_info_type_merge
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---data_binding_layout_info_type_package
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---packageDebugResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---desugar_graph
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---currentProject
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_0
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_1
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_2
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_3
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_4
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---dirs_bucket_5
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_8d93f2b7318d90cafd1c4aa57979a41473f1a41123012164e6c27c860190b576_bucket_0
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_8d93f2b7318d90cafd1c4aa57979a41473f1a41123012164e6c27c860190b576_bucket_1
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_8d93f2b7318d90cafd1c4aa57979a41473f1a41123012164e6c27c860190b576_bucket_2
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_8d93f2b7318d90cafd1c4aa57979a41473f1a41123012164e6c27c860190b576_bucket_3
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_8d93f2b7318d90cafd1c4aa57979a41473f1a41123012164e6c27c860190b576_bucket_4
+¦   ¦   ¦   ¦               ¦   ¦       graph.bin
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---jar_8d93f2b7318d90cafd1c4aa57979a41473f1a41123012164e6c27c860190b576_bucket_5
+¦   ¦   ¦   ¦               ¦           graph.bin
+¦   ¦   ¦   ¦               ¦           
+¦   ¦   ¦   ¦               +---externalLibs
+¦   ¦   ¦   ¦               +---mixedScopes
+¦   ¦   ¦   ¦               +---otherProjects
+¦   ¦   ¦   +---dex
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeExtDexDebug
+¦   ¦   ¦   ¦       ¦       classes.dex
+¦   ¦   ¦   ¦       ¦       classes2.dex
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---mergeLibDexDebug
+¦   ¦   ¦   ¦       ¦   +---0
+¦   ¦   ¦   ¦       ¦   +---1
+¦   ¦   ¦   ¦       ¦   +---10
+¦   ¦   ¦   ¦       ¦   +---11
+¦   ¦   ¦   ¦       ¦   +---12
+¦   ¦   ¦   ¦       ¦   +---13
+¦   ¦   ¦   ¦       ¦   +---14
+¦   ¦   ¦   ¦       ¦   +---15
+¦   ¦   ¦   ¦       ¦   +---2
+¦   ¦   ¦   ¦       ¦   +---3
+¦   ¦   ¦   ¦       ¦   +---4
+¦   ¦   ¦   ¦       ¦   +---5
+¦   ¦   ¦   ¦       ¦   +---6
+¦   ¦   ¦   ¦       ¦   +---7
+¦   ¦   ¦   ¦       ¦   +---8
+¦   ¦   ¦   ¦       ¦   +---9
+¦   ¦   ¦   ¦       +---mergeProjectDexDebug
+¦   ¦   ¦   ¦           +---0
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---1
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---10
+¦   ¦   ¦   ¦           +---11
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---12
+¦   ¦   ¦   ¦           +---13
+¦   ¦   ¦   ¦           +---14
+¦   ¦   ¦   ¦           +---15
+¦   ¦   ¦   ¦           +---2
+¦   ¦   ¦   ¦           +---3
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---4
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---5
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---6
+¦   ¦   ¦   ¦           +---7
+¦   ¦   ¦   ¦           ¦       classes.dex
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---8
+¦   ¦   ¦   ¦           +---9
+¦   ¦   ¦   +---dex_archive_input_jar_hashes
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦               out
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---dex_number_of_buckets_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦               out
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---duplicate_classes_check
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---checkDebugDuplicateClasses
+¦   ¦   ¦   +---external_file_lib_dex_archives
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---desugarDebugFileDependencies
+¦   ¦   ¦   +---external_libs_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---external_libs_dex_archive_with_artifact_transforms
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---incremental
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   +---mergeDebugResources
+¦   ¦   ¦   ¦   ¦   ¦   ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦   ¦   ¦   merger.xml
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---merged.dir
+¦   ¦   ¦   ¦   ¦   ¦   +---stripped.dir
+¦   ¦   ¦   ¦   ¦   +---packageDebugResources
+¦   ¦   ¦   ¦   ¦       ¦   compile-file-map.properties
+¦   ¦   ¦   ¦   ¦       ¦   merger.xml
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---merged.dir
+¦   ¦   ¦   ¦   ¦       +---stripped.dir
+¦   ¦   ¦   ¦   +---debug-mergeJavaRes
+¦   ¦   ¦   ¦   ¦   ¦   merge-state
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---zip-cache
+¦   ¦   ¦   ¦   ¦           +o6oXBjB_qNkh+84jd_bDjnuk4Y=
+¦   ¦   ¦   ¦   ¦           1cC3zPoASWDPxwnaLcsgOxTlaBI=
+¦   ¦   ¦   ¦   ¦           1yY1LkDZx2xi1cZ_lRUml1zB+JY=
+¦   ¦   ¦   ¦   ¦           2AR+O0QbRHDJ+AIIsL18WFGpx4U=
+¦   ¦   ¦   ¦   ¦           3ElYb0SVt1ks3k576rkGbuqeNcY=
+¦   ¦   ¦   ¦   ¦           3zY0+9V3z8A5ZYmQndLpzdSbBHQ=
+¦   ¦   ¦   ¦   ¦           5DyprEpnXLvbHRvOkJRErLH3Glk=
+¦   ¦   ¦   ¦   ¦           5MFjl3Si3fV0ALVRqnZEBqeWJpw=
+¦   ¦   ¦   ¦   ¦           6R6g2YzXTdCRlx4sDYPbJlqAecU=
+¦   ¦   ¦   ¦   ¦           73MCJRHQJZ+1jiCvA2N+Zv0xtso=
+¦   ¦   ¦   ¦   ¦           7CPZ+ziNQivFIwksUrWNVCRpogE=
+¦   ¦   ¦   ¦   ¦           8PoNiCo3T+CdmlK4xedXk_+SZnQ=
+¦   ¦   ¦   ¦   ¦           9wPAL+GmtMK2fD1D3VIbhdVH7_E=
+¦   ¦   ¦   ¦   ¦           9zr+SNSTPOxONAE_ypvulkIiwN8=
+¦   ¦   ¦   ¦   ¦           ACfJi7tEBRavAYFUpsKYH2fTnVw=
+¦   ¦   ¦   ¦   ¦           AufcAl6y2CQnY4NvQVkoaUP0JqA=
+¦   ¦   ¦   ¦   ¦           BCmRee28F_W9LDzO4vaRwYpjEAU=
+¦   ¦   ¦   ¦   ¦           Btc+Ft_XsmsWkSgoN87z9rO20gs=
+¦   ¦   ¦   ¦   ¦           c0O1oX9cee2qhpt_TZ8QC7pUqig=
+¦   ¦   ¦   ¦   ¦           c1DQ+EsjtYOVv63EqIHOm50j7a8=
+¦   ¦   ¦   ¦   ¦           cMzeaQZYK+pFTknG3W60X4yXo+w=
+¦   ¦   ¦   ¦   ¦           cphSDl2+uuur0g9SZNaCYOjks3w=
+¦   ¦   ¦   ¦   ¦           cynaUytoS33Aceq4xRG3r7LylRw=
+¦   ¦   ¦   ¦   ¦           D+Yj+SS2t9LAvr5L4qzLOhPojzE=
+¦   ¦   ¦   ¦   ¦           D1Dh6IZ9JE84+hfXLPQwHCBa_Cc=
+¦   ¦   ¦   ¦   ¦           DgQHtaV6QQCQbBxnxLjB9FGxyaA=
+¦   ¦   ¦   ¦   ¦           dHqKt8Bf4ZOquq0WlpT72MkFNoo=
+¦   ¦   ¦   ¦   ¦           GaqdOK8LI5BKD6o3G60+to2hT8s=
+¦   ¦   ¦   ¦   ¦           gC+cdI1aFOudBmBWfOWy7_dd1js=
+¦   ¦   ¦   ¦   ¦           GOnuvFGOhdkaQoSajZIi+PjEtHI=
+¦   ¦   ¦   ¦   ¦           guNUiJffcDzzZC240FSjrjND+4Y=
+¦   ¦   ¦   ¦   ¦           gXUK8xWWjelCHCRJFr5m6TCmjQs=
+¦   ¦   ¦   ¦   ¦           jeNhCoAh60lwJK6V_MJPCFsPDGA=
+¦   ¦   ¦   ¦   ¦           kfpRHjyhUqNsCEKXnm1HVuL0WbM=
+¦   ¦   ¦   ¦   ¦           kiBWjrl6cV5MLkV2gDL8YF0E_cU=
+¦   ¦   ¦   ¦   ¦           KQ4JKmFjomoCVY070j_k53Hhh6c=
+¦   ¦   ¦   ¦   ¦           LkYzXwpyab5H7yUDQMqN4DY6HmU=
+¦   ¦   ¦   ¦   ¦           lSvuDZK0S1LKDUrZswUVwt38IHk=
+¦   ¦   ¦   ¦   ¦           l_WAHRetBmSZ35DjBwq_FAK5bOs=
+¦   ¦   ¦   ¦   ¦           m9q_XeE_+0x8_eJ7MI+YfKBxSfs=
+¦   ¦   ¦   ¦   ¦           naPcm8jopKkmIz+ZbKgxvzlozus=
+¦   ¦   ¦   ¦   ¦           ntwqQfZK5aK41HOK5z6DoVdTdUI=
+¦   ¦   ¦   ¦   ¦           nxSEqbXsSGGaqKNHjcCpNYa1fh8=
+¦   ¦   ¦   ¦   ¦           N_i+wcbahF+G3cjNpT4NvRXB6cc=
+¦   ¦   ¦   ¦   ¦           o2jOKC10SQtCsw_Iy7AJDrqNDR8=
+¦   ¦   ¦   ¦   ¦           OH1xUtGuqXgw__+v5csxPzKyha8=
+¦   ¦   ¦   ¦   ¦           PKiwKJt+CsZjF71vjqpMtddnQ0w=
+¦   ¦   ¦   ¦   ¦           pmdAWXQC4viCjN0y9QvCQegBkEs=
+¦   ¦   ¦   ¦   ¦           Pu_a2arcLafkou9vfqs4A_zhsro=
+¦   ¦   ¦   ¦   ¦           QGiONNaryey4BPktPxMoWrSfoH0=
+¦   ¦   ¦   ¦   ¦           QjCUbmijXXN0fu5jUE2ogJNHxXk=
+¦   ¦   ¦   ¦   ¦           qsuJS0FvZyvldLrqtBjlWPg5Qls=
+¦   ¦   ¦   ¦   ¦           RT80oAgH+yslL9ImUacfwyiLSE8=
+¦   ¦   ¦   ¦   ¦           tIroBAruWXw_Vidvj2rnlw5rezo=
+¦   ¦   ¦   ¦   ¦           TtI+WwBV13xD9M3_ZfTL18acasE=
+¦   ¦   ¦   ¦   ¦           tXM9r+aNH96KReOQEK5uM9bbQWA=
+¦   ¦   ¦   ¦   ¦           uKgoEax3U+b1MJCQczlI__rVoS8=
+¦   ¦   ¦   ¦   ¦           Ut0rqGZNtBdMxvoOFs0Qn4X+45s=
+¦   ¦   ¦   ¦   ¦           vc23IlVTJvHvGmaUEzm8_Exd_DU=
+¦   ¦   ¦   ¦   ¦           vIFoGgRrytz51wt_BCMTVAxdbYE=
+¦   ¦   ¦   ¦   ¦           vSOQedV6VDgrPNL6m4vOvZjgTTU=
+¦   ¦   ¦   ¦   ¦           wRqSVwbqiEW0yGfVivcibla6XdI=
+¦   ¦   ¦   ¦   ¦           wv6o1TVq4oC6DE5GPgmGmbSJ5lA=
+¦   ¦   ¦   ¦   ¦           xJ5nqxiQK9fAw_1hZLGMbSqebOw=
+¦   ¦   ¦   ¦   ¦           xz5pLrAKZMZeqtTkhyQbKAQE3+4=
+¦   ¦   ¦   ¦   ¦           y1rGkVIust0t0Fo_TKWasnO8PBg=
+¦   ¦   ¦   ¦   ¦           Yp3kxUp0_UXVcLB+Tr0lAgco7Fc=
+¦   ¦   ¦   ¦   ¦           zD9_OX8IE8kDatK7tP+t9pr5aow=
+¦   ¦   ¦   ¦   ¦           ZEjx8LqkuMnlFi8uXFZFcuTrdt0=
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---mergeDebugAssets
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---mergeDebugShaders
+¦   ¦   ¦   ¦   ¦       merger.xml
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---packageDebug
+¦   ¦   ¦   ¦       +---tmp
+¦   ¦   ¦   ¦           +---debug
+¦   ¦   ¦   ¦               ¦   dex-renamer-state.txt
+¦   ¦   ¦   ¦               ¦   
+¦   ¦   ¦   ¦               +---zip-cache
+¦   ¦   ¦   ¦                       androidResources
+¦   ¦   ¦   ¦                       javaResources0
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---javac
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦   ¦   ¦           +---classes
+¦   ¦   ¦   ¦               +---com
+¦   ¦   ¦   ¦                   +---example
+¦   ¦   ¦   ¦                       +---medmonkey
+¦   ¦   ¦   ¦                           ¦   MainActivity.class
+¦   ¦   ¦   ¦                           ¦   MapPickerActivity.class
+¦   ¦   ¦   ¦                           ¦   
+¦   ¦   ¦   ¦                           +---background
+¦   ¦   ¦   ¦                           ¦       PrescriptionDrugWorker.class
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---data
+¦   ¦   ¦   ¦                           ¦   +---local
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   AppDatabase.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   AppDatabase_Impl$1.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   AppDatabase_Impl.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   
+¦   ¦   ¦   ¦                           ¦   ¦   +---dao
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$1.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$2.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$3.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$4.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$5.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$6.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao_Impl$1.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao_Impl$2.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao_Impl.class
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       
+¦   ¦   ¦   ¦                           ¦   ¦   +---entitiy
+¦   ¦   ¦   ¦                           ¦   ¦           PrescriptionDrug.class
+¦   ¦   ¦   ¦                           ¦   ¦           TimeTermEntity.class
+¦   ¦   ¦   ¦                           ¦   ¦           
+¦   ¦   ¦   ¦                           ¦   +---provider
+¦   ¦   ¦   ¦                           ¦           PrescriptionDrugContentProvider.class
+¦   ¦   ¦   ¦                           ¦           
+¦   ¦   ¦   ¦                           +---ui
+¦   ¦   ¦   ¦                               ¦   AddDrugFragment.class
+¦   ¦   ¦   ¦                               ¦   DrugDetailFragment.class
+¦   ¦   ¦   ¦                               ¦   DrugListFragment.class
+¦   ¦   ¦   ¦                               ¦   ExportFragment.class
+¦   ¦   ¦   ¦                               ¦   TestContentProviderFragment.class
+¦   ¦   ¦   ¦                               ¦   
+¦   ¦   ¦   ¦                               +---adapter
+¦   ¦   ¦   ¦                                       PrescriptionDrugAdapter$OnItemClickListener.class
+¦   ¦   ¦   ¦                                       PrescriptionDrugAdapter$ViewHolder.class
+¦   ¦   ¦   ¦                                       PrescriptionDrugAdapter.class
+¦   ¦   ¦   ¦                                       
+¦   ¦   ¦   +---java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugJavaRes
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---com
+¦   ¦   ¦   ¦                   +---example
+¦   ¦   ¦   ¦                       +---medmonkey
+¦   ¦   ¦   ¦                           +---background
+¦   ¦   ¦   ¦                           +---data
+¦   ¦   ¦   ¦                           ¦   +---local
+¦   ¦   ¦   ¦                           ¦   ¦   +---dao
+¦   ¦   ¦   ¦                           ¦   ¦   +---entitiy
+¦   ¦   ¦   ¦                           ¦   +---provider
+¦   ¦   ¦   ¦                           +---ui
+¦   ¦   ¦   ¦                               +---adapter
+¦   ¦   ¦   +---linked_resources_binary_format
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               linked-resources-binary-format-debug.ap_
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---local_only_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---parseDebugLocalResources
+¦   ¦   ¦   ¦               R-def.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---manifest_merge_blame_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugMainManifest
+¦   ¦   ¦   ¦               manifest-merger-blame-debug-report.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_java_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugJavaResource
+¦   ¦   ¦   ¦               base.jar
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_jni_libs
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugJniLibFolders
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---merged_manifest
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugMainManifest
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugManifest
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugResources
+¦   ¦   ¦   ¦               drawable-hdpi_ic_calendar.png.flat
+¦   ¦   ¦   ¦               drawable-hdpi_ic_location_pin.png.flat
+¦   ¦   ¦   ¦               drawable-hdpi_ic_test.png.flat
+¦   ¦   ¦   ¦               drawable-mdpi_ic_calendar.png.flat
+¦   ¦   ¦   ¦               drawable-mdpi_ic_location_pin.png.flat
+¦   ¦   ¦   ¦               drawable-mdpi_ic_test.png.flat
+¦   ¦   ¦   ¦               drawable-xhdpi_ic_calendar.png.flat
+¦   ¦   ¦   ¦               drawable-xhdpi_ic_location_pin.png.flat
+¦   ¦   ¦   ¦               drawable-xhdpi_ic_test.png.flat
+¦   ¦   ¦   ¦               drawable-xxhdpi_ic_calendar.png.flat
+¦   ¦   ¦   ¦               drawable-xxhdpi_ic_location_pin.png.flat
+¦   ¦   ¦   ¦               drawable-xxhdpi_ic_test.png.flat
+¦   ¦   ¦   ¦               drawable-xxxhdpi_ic_calendar.png.flat
+¦   ¦   ¦   ¦               drawable-xxxhdpi_ic_location_pin.png.flat
+¦   ¦   ¦   ¦               drawable-xxxhdpi_ic_test.png.flat
+¦   ¦   ¦   ¦               drawable_add.png.flat
+¦   ¦   ¦   ¦               drawable_calendar.png.flat
+¦   ¦   ¦   ¦               drawable_calendar2.png.flat
+¦   ¦   ¦   ¦               drawable_clipboard.png.flat
+¦   ¦   ¦   ¦               drawable_file.png.flat
+¦   ¦   ¦   ¦               drawable_ic_launcher_background.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_launcher_foreground.xml.flat
+¦   ¦   ¦   ¦               drawable_ic_location.png.flat
+¦   ¦   ¦   ¦               drawable_medmonkey1.png.flat
+¦   ¦   ¦   ¦               layout_activity_main.xml.flat
+¦   ¦   ¦   ¦               layout_activity_map_picker.xml.flat
+¦   ¦   ¦   ¦               layout_fragment_add_drug.xml.flat
+¦   ¦   ¦   ¦               layout_fragment_drug_detail.xml.flat
+¦   ¦   ¦   ¦               layout_fragment_drug_list.xml.flat
+¦   ¦   ¦   ¦               layout_fragment_export.xml.flat
+¦   ¦   ¦   ¦               layout_fragment_test_content_provider.xml.flat
+¦   ¦   ¦   ¦               layout_item_prescription_drug.xml.flat
+¦   ¦   ¦   ¦               menu_bottom_nav_menu.xml.flat
+¦   ¦   ¦   ¦               mipmap-anydpi-v26_ic_launcher.xml.flat
+¦   ¦   ¦   ¦               mipmap-anydpi-v26_ic_launcher_round.xml.flat
+¦   ¦   ¦   ¦               mipmap-hdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-hdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦               mipmap-hdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-mdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-mdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦               mipmap-mdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-xhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-xhdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦               mipmap-xhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxhdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxxhdpi_ic_launcher.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxxhdpi_ic_launcher_foreground.webp.flat
+¦   ¦   ¦   ¦               mipmap-xxxhdpi_ic_launcher_round.webp.flat
+¦   ¦   ¦   ¦               values-af_values-af.arsc.flat
+¦   ¦   ¦   ¦               values-am_values-am.arsc.flat
+¦   ¦   ¦   ¦               values-ar_values-ar.arsc.flat
+¦   ¦   ¦   ¦               values-as_values-as.arsc.flat
+¦   ¦   ¦   ¦               values-az_values-az.arsc.flat
+¦   ¦   ¦   ¦               values-b+es+419_values-b+es+419.arsc.flat
+¦   ¦   ¦   ¦               values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+¦   ¦   ¦   ¦               values-be_values-be.arsc.flat
+¦   ¦   ¦   ¦               values-bg_values-bg.arsc.flat
+¦   ¦   ¦   ¦               values-bn_values-bn.arsc.flat
+¦   ¦   ¦   ¦               values-bs_values-bs.arsc.flat
+¦   ¦   ¦   ¦               values-ca_values-ca.arsc.flat
+¦   ¦   ¦   ¦               values-cs_values-cs.arsc.flat
+¦   ¦   ¦   ¦               values-da_values-da.arsc.flat
+¦   ¦   ¦   ¦               values-de_values-de.arsc.flat
+¦   ¦   ¦   ¦               values-el_values-el.arsc.flat
+¦   ¦   ¦   ¦               values-en-rAU_values-en-rAU.arsc.flat
+¦   ¦   ¦   ¦               values-en-rCA_values-en-rCA.arsc.flat
+¦   ¦   ¦   ¦               values-en-rGB_values-en-rGB.arsc.flat
+¦   ¦   ¦   ¦               values-en-rIN_values-en-rIN.arsc.flat
+¦   ¦   ¦   ¦               values-en-rXC_values-en-rXC.arsc.flat
+¦   ¦   ¦   ¦               values-es-rUS_values-es-rUS.arsc.flat
+¦   ¦   ¦   ¦               values-es_values-es.arsc.flat
+¦   ¦   ¦   ¦               values-et_values-et.arsc.flat
+¦   ¦   ¦   ¦               values-eu_values-eu.arsc.flat
+¦   ¦   ¦   ¦               values-fa_values-fa.arsc.flat
+¦   ¦   ¦   ¦               values-fi_values-fi.arsc.flat
+¦   ¦   ¦   ¦               values-fr-rCA_values-fr-rCA.arsc.flat
+¦   ¦   ¦   ¦               values-fr_values-fr.arsc.flat
+¦   ¦   ¦   ¦               values-gl_values-gl.arsc.flat
+¦   ¦   ¦   ¦               values-gu_values-gu.arsc.flat
+¦   ¦   ¦   ¦               values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-h720dp-v13_values-h720dp-v13.arsc.flat
+¦   ¦   ¦   ¦               values-hdpi-v4_values-hdpi-v4.arsc.flat
+¦   ¦   ¦   ¦               values-hi_values-hi.arsc.flat
+¦   ¦   ¦   ¦               values-hr_values-hr.arsc.flat
+¦   ¦   ¦   ¦               values-hu_values-hu.arsc.flat
+¦   ¦   ¦   ¦               values-hy_values-hy.arsc.flat
+¦   ¦   ¦   ¦               values-in_values-in.arsc.flat
+¦   ¦   ¦   ¦               values-is_values-is.arsc.flat
+¦   ¦   ¦   ¦               values-it_values-it.arsc.flat
+¦   ¦   ¦   ¦               values-iw_values-iw.arsc.flat
+¦   ¦   ¦   ¦               values-ja_values-ja.arsc.flat
+¦   ¦   ¦   ¦               values-ka_values-ka.arsc.flat
+¦   ¦   ¦   ¦               values-kk_values-kk.arsc.flat
+¦   ¦   ¦   ¦               values-km_values-km.arsc.flat
+¦   ¦   ¦   ¦               values-kn_values-kn.arsc.flat
+¦   ¦   ¦   ¦               values-ko_values-ko.arsc.flat
+¦   ¦   ¦   ¦               values-ky_values-ky.arsc.flat
+¦   ¦   ¦   ¦               values-land_values-land.arsc.flat
+¦   ¦   ¦   ¦               values-large-v4_values-large-v4.arsc.flat
+¦   ¦   ¦   ¦               values-ldltr-v21_values-ldltr-v21.arsc.flat
+¦   ¦   ¦   ¦               values-ldrtl-v17_values-ldrtl-v17.arsc.flat
+¦   ¦   ¦   ¦               values-lo_values-lo.arsc.flat
+¦   ¦   ¦   ¦               values-lt_values-lt.arsc.flat
+¦   ¦   ¦   ¦               values-lv_values-lv.arsc.flat
+¦   ¦   ¦   ¦               values-mk_values-mk.arsc.flat
+¦   ¦   ¦   ¦               values-ml_values-ml.arsc.flat
+¦   ¦   ¦   ¦               values-mn_values-mn.arsc.flat
+¦   ¦   ¦   ¦               values-mr_values-mr.arsc.flat
+¦   ¦   ¦   ¦               values-ms_values-ms.arsc.flat
+¦   ¦   ¦   ¦               values-my_values-my.arsc.flat
+¦   ¦   ¦   ¦               values-nb_values-nb.arsc.flat
+¦   ¦   ¦   ¦               values-ne_values-ne.arsc.flat
+¦   ¦   ¦   ¦               values-night-v8_values-night-v8.arsc.flat
+¦   ¦   ¦   ¦               values-nl_values-nl.arsc.flat
+¦   ¦   ¦   ¦               values-or_values-or.arsc.flat
+¦   ¦   ¦   ¦               values-pa_values-pa.arsc.flat
+¦   ¦   ¦   ¦               values-pl_values-pl.arsc.flat
+¦   ¦   ¦   ¦               values-port_values-port.arsc.flat
+¦   ¦   ¦   ¦               values-pt-rBR_values-pt-rBR.arsc.flat
+¦   ¦   ¦   ¦               values-pt-rPT_values-pt-rPT.arsc.flat
+¦   ¦   ¦   ¦               values-pt_values-pt.arsc.flat
+¦   ¦   ¦   ¦               values-ro_values-ro.arsc.flat
+¦   ¦   ¦   ¦               values-ru_values-ru.arsc.flat
+¦   ¦   ¦   ¦               values-si_values-si.arsc.flat
+¦   ¦   ¦   ¦               values-sk_values-sk.arsc.flat
+¦   ¦   ¦   ¦               values-sl_values-sl.arsc.flat
+¦   ¦   ¦   ¦               values-small-v4_values-small-v4.arsc.flat
+¦   ¦   ¦   ¦               values-sq_values-sq.arsc.flat
+¦   ¦   ¦   ¦               values-sr_values-sr.arsc.flat
+¦   ¦   ¦   ¦               values-sv_values-sv.arsc.flat
+¦   ¦   ¦   ¦               values-sw600dp-v13_values-sw600dp-v13.arsc.flat
+¦   ¦   ¦   ¦               values-sw_values-sw.arsc.flat
+¦   ¦   ¦   ¦               values-ta_values-ta.arsc.flat
+¦   ¦   ¦   ¦               values-te_values-te.arsc.flat
+¦   ¦   ¦   ¦               values-th_values-th.arsc.flat
+¦   ¦   ¦   ¦               values-tl_values-tl.arsc.flat
+¦   ¦   ¦   ¦               values-tr_values-tr.arsc.flat
+¦   ¦   ¦   ¦               values-uk_values-uk.arsc.flat
+¦   ¦   ¦   ¦               values-ur_values-ur.arsc.flat
+¦   ¦   ¦   ¦               values-uz_values-uz.arsc.flat
+¦   ¦   ¦   ¦               values-v16_values-v16.arsc.flat
+¦   ¦   ¦   ¦               values-v17_values-v17.arsc.flat
+¦   ¦   ¦   ¦               values-v18_values-v18.arsc.flat
+¦   ¦   ¦   ¦               values-v21_values-v21.arsc.flat
+¦   ¦   ¦   ¦               values-v22_values-v22.arsc.flat
+¦   ¦   ¦   ¦               values-v23_values-v23.arsc.flat
+¦   ¦   ¦   ¦               values-v24_values-v24.arsc.flat
+¦   ¦   ¦   ¦               values-v25_values-v25.arsc.flat
+¦   ¦   ¦   ¦               values-v26_values-v26.arsc.flat
+¦   ¦   ¦   ¦               values-v28_values-v28.arsc.flat
+¦   ¦   ¦   ¦               values-v31_values-v31.arsc.flat
+¦   ¦   ¦   ¦               values-vi_values-vi.arsc.flat
+¦   ¦   ¦   ¦               values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat
+¦   ¦   ¦   ¦               values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat
+¦   ¦   ¦   ¦               values-watch-v20_values-watch-v20.arsc.flat
+¦   ¦   ¦   ¦               values-watch-v21_values-watch-v21.arsc.flat
+¦   ¦   ¦   ¦               values-xlarge-v4_values-xlarge-v4.arsc.flat
+¦   ¦   ¦   ¦               values-zh-rCN_values-zh-rCN.arsc.flat
+¦   ¦   ¦   ¦               values-zh-rHK_values-zh-rHK.arsc.flat
+¦   ¦   ¦   ¦               values-zh-rTW_values-zh-rTW.arsc.flat
+¦   ¦   ¦   ¦               values-zu_values-zu.arsc.flat
+¦   ¦   ¦   ¦               values_values.arsc.flat
+¦   ¦   ¦   ¦               xml_backup_rules.xml.flat
+¦   ¦   ¦   ¦               xml_data_extraction_rules.xml.flat
+¦   ¦   ¦   ¦               xml_file_paths.xml.flat
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---merged_res_blame_folder
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugResources
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               +---multi-v2
+¦   ¦   ¦   ¦               ¦       mergeDebugResources.json
+¦   ¦   ¦   ¦               ¦       values-af.json
+¦   ¦   ¦   ¦               ¦       values-am.json
+¦   ¦   ¦   ¦               ¦       values-ar.json
+¦   ¦   ¦   ¦               ¦       values-as.json
+¦   ¦   ¦   ¦               ¦       values-az.json
+¦   ¦   ¦   ¦               ¦       values-b+es+419.json
+¦   ¦   ¦   ¦               ¦       values-b+sr+Latn.json
+¦   ¦   ¦   ¦               ¦       values-be.json
+¦   ¦   ¦   ¦               ¦       values-bg.json
+¦   ¦   ¦   ¦               ¦       values-bn.json
+¦   ¦   ¦   ¦               ¦       values-bs.json
+¦   ¦   ¦   ¦               ¦       values-ca.json
+¦   ¦   ¦   ¦               ¦       values-cs.json
+¦   ¦   ¦   ¦               ¦       values-da.json
+¦   ¦   ¦   ¦               ¦       values-de.json
+¦   ¦   ¦   ¦               ¦       values-el.json
+¦   ¦   ¦   ¦               ¦       values-en-rAU.json
+¦   ¦   ¦   ¦               ¦       values-en-rCA.json
+¦   ¦   ¦   ¦               ¦       values-en-rGB.json
+¦   ¦   ¦   ¦               ¦       values-en-rIN.json
+¦   ¦   ¦   ¦               ¦       values-en-rXC.json
+¦   ¦   ¦   ¦               ¦       values-es-rUS.json
+¦   ¦   ¦   ¦               ¦       values-es.json
+¦   ¦   ¦   ¦               ¦       values-et.json
+¦   ¦   ¦   ¦               ¦       values-eu.json
+¦   ¦   ¦   ¦               ¦       values-fa.json
+¦   ¦   ¦   ¦               ¦       values-fi.json
+¦   ¦   ¦   ¦               ¦       values-fr-rCA.json
+¦   ¦   ¦   ¦               ¦       values-fr.json
+¦   ¦   ¦   ¦               ¦       values-gl.json
+¦   ¦   ¦   ¦               ¦       values-gu.json
+¦   ¦   ¦   ¦               ¦       values-h320dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-h360dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-h480dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-h550dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-h720dp-v13.json
+¦   ¦   ¦   ¦               ¦       values-hdpi-v4.json
+¦   ¦   ¦   ¦               ¦       values-hi.json
+¦   ¦   ¦   ¦               ¦       values-hr.json
+¦   ¦   ¦   ¦               ¦       values-hu.json
+¦   ¦   ¦   ¦               ¦       values-hy.json
+¦   ¦   ¦   ¦               ¦       values-in.json
+¦   ¦   ¦   ¦               ¦       values-is.json
+¦   ¦   ¦   ¦               ¦       values-it.json
+¦   ¦   ¦   ¦               ¦       values-iw.json
+¦   ¦   ¦   ¦               ¦       values-ja.json
+¦   ¦   ¦   ¦               ¦       values-ka.json
+¦   ¦   ¦   ¦               ¦       values-kk.json
+¦   ¦   ¦   ¦               ¦       values-km.json
+¦   ¦   ¦   ¦               ¦       values-kn.json
+¦   ¦   ¦   ¦               ¦       values-ko.json
+¦   ¦   ¦   ¦               ¦       values-ky.json
+¦   ¦   ¦   ¦               ¦       values-land.json
+¦   ¦   ¦   ¦               ¦       values-large-v4.json
+¦   ¦   ¦   ¦               ¦       values-ldltr-v21.json
+¦   ¦   ¦   ¦               ¦       values-ldrtl-v17.json
+¦   ¦   ¦   ¦               ¦       values-lo.json
+¦   ¦   ¦   ¦               ¦       values-lt.json
+¦   ¦   ¦   ¦               ¦       values-lv.json
+¦   ¦   ¦   ¦               ¦       values-mk.json
+¦   ¦   ¦   ¦               ¦       values-ml.json
+¦   ¦   ¦   ¦               ¦       values-mn.json
+¦   ¦   ¦   ¦               ¦       values-mr.json
+¦   ¦   ¦   ¦               ¦       values-ms.json
+¦   ¦   ¦   ¦               ¦       values-my.json
+¦   ¦   ¦   ¦               ¦       values-nb.json
+¦   ¦   ¦   ¦               ¦       values-ne.json
+¦   ¦   ¦   ¦               ¦       values-night-v8.json
+¦   ¦   ¦   ¦               ¦       values-nl.json
+¦   ¦   ¦   ¦               ¦       values-or.json
+¦   ¦   ¦   ¦               ¦       values-pa.json
+¦   ¦   ¦   ¦               ¦       values-pl.json
+¦   ¦   ¦   ¦               ¦       values-port.json
+¦   ¦   ¦   ¦               ¦       values-pt-rBR.json
+¦   ¦   ¦   ¦               ¦       values-pt-rPT.json
+¦   ¦   ¦   ¦               ¦       values-pt.json
+¦   ¦   ¦   ¦               ¦       values-ro.json
+¦   ¦   ¦   ¦               ¦       values-ru.json
+¦   ¦   ¦   ¦               ¦       values-si.json
+¦   ¦   ¦   ¦               ¦       values-sk.json
+¦   ¦   ¦   ¦               ¦       values-sl.json
+¦   ¦   ¦   ¦               ¦       values-small-v4.json
+¦   ¦   ¦   ¦               ¦       values-sq.json
+¦   ¦   ¦   ¦               ¦       values-sr.json
+¦   ¦   ¦   ¦               ¦       values-sv.json
+¦   ¦   ¦   ¦               ¦       values-sw.json
+¦   ¦   ¦   ¦               ¦       values-sw600dp-v13.json
+¦   ¦   ¦   ¦               ¦       values-ta.json
+¦   ¦   ¦   ¦               ¦       values-te.json
+¦   ¦   ¦   ¦               ¦       values-th.json
+¦   ¦   ¦   ¦               ¦       values-tl.json
+¦   ¦   ¦   ¦               ¦       values-tr.json
+¦   ¦   ¦   ¦               ¦       values-uk.json
+¦   ¦   ¦   ¦               ¦       values-ur.json
+¦   ¦   ¦   ¦               ¦       values-uz.json
+¦   ¦   ¦   ¦               ¦       values-v16.json
+¦   ¦   ¦   ¦               ¦       values-v17.json
+¦   ¦   ¦   ¦               ¦       values-v18.json
+¦   ¦   ¦   ¦               ¦       values-v21.json
+¦   ¦   ¦   ¦               ¦       values-v22.json
+¦   ¦   ¦   ¦               ¦       values-v23.json
+¦   ¦   ¦   ¦               ¦       values-v24.json
+¦   ¦   ¦   ¦               ¦       values-v25.json
+¦   ¦   ¦   ¦               ¦       values-v26.json
+¦   ¦   ¦   ¦               ¦       values-v28.json
+¦   ¦   ¦   ¦               ¦       values-v31.json
+¦   ¦   ¦   ¦               ¦       values-vi.json
+¦   ¦   ¦   ¦               ¦       values-w320dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-w360dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-w400dp-port-v13.json
+¦   ¦   ¦   ¦               ¦       values-w600dp-land-v13.json
+¦   ¦   ¦   ¦               ¦       values-watch-v20.json
+¦   ¦   ¦   ¦               ¦       values-watch-v21.json
+¦   ¦   ¦   ¦               ¦       values-xlarge-v4.json
+¦   ¦   ¦   ¦               ¦       values-zh-rCN.json
+¦   ¦   ¦   ¦               ¦       values-zh-rHK.json
+¦   ¦   ¦   ¦               ¦       values-zh-rTW.json
+¦   ¦   ¦   ¦               ¦       values-zu.json
+¦   ¦   ¦   ¦               ¦       values.json
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---single
+¦   ¦   ¦   ¦                       mergeDebugResources.json
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---merged_shaders
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mergeDebugShaders
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---mixed_scope_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---navigation_json
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---extractDeepLinksDebug
+¦   ¦   ¦   ¦               navigation.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---nested_resources_validation_report
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---generateDebugResources
+¦   ¦   ¦   ¦               nestedResourcesValidationReport.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---packaged_manifests
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugManifestForPackage
+¦   ¦   ¦   ¦               AndroidManifest.xml
+¦   ¦   ¦   ¦               output-metadata.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---packaged_res
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---packageDebugResources
+¦   ¦   ¦   ¦           +---drawable
+¦   ¦   ¦   ¦           ¦       add.png
+¦   ¦   ¦   ¦           ¦       calendar.png
+¦   ¦   ¦   ¦           ¦       calendar2.png
+¦   ¦   ¦   ¦           ¦       clipboard.png
+¦   ¦   ¦   ¦           ¦       file.png
+¦   ¦   ¦   ¦           ¦       ic_launcher_background.xml
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.xml
+¦   ¦   ¦   ¦           ¦       ic_location.png
+¦   ¦   ¦   ¦           ¦       medmonkey1.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---drawable-hdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_calendar.png
+¦   ¦   ¦   ¦           ¦       ic_location_pin.png
+¦   ¦   ¦   ¦           ¦       ic_test.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---drawable-mdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_calendar.png
+¦   ¦   ¦   ¦           ¦       ic_location_pin.png
+¦   ¦   ¦   ¦           ¦       ic_test.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---drawable-xhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_calendar.png
+¦   ¦   ¦   ¦           ¦       ic_location_pin.png
+¦   ¦   ¦   ¦           ¦       ic_test.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---drawable-xxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_calendar.png
+¦   ¦   ¦   ¦           ¦       ic_location_pin.png
+¦   ¦   ¦   ¦           ¦       ic_test.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---drawable-xxxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_calendar.png
+¦   ¦   ¦   ¦           ¦       ic_location_pin.png
+¦   ¦   ¦   ¦           ¦       ic_test.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---layout
+¦   ¦   ¦   ¦           ¦       activity_main.xml
+¦   ¦   ¦   ¦           ¦       activity_map_picker.xml
+¦   ¦   ¦   ¦           ¦       fragment_add_drug.xml
+¦   ¦   ¦   ¦           ¦       fragment_drug_detail.xml
+¦   ¦   ¦   ¦           ¦       fragment_drug_list.xml
+¦   ¦   ¦   ¦           ¦       fragment_export.xml
+¦   ¦   ¦   ¦           ¦       fragment_test_content_provider.xml
+¦   ¦   ¦   ¦           ¦       item_prescription_drug.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---menu
+¦   ¦   ¦   ¦           ¦       bottom_nav_menu.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-anydpi-v26
+¦   ¦   ¦   ¦           ¦       ic_launcher.xml
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-hdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-mdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---mipmap-xxxhdpi-v4
+¦   ¦   ¦   ¦           ¦       ic_launcher.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_foreground.webp
+¦   ¦   ¦   ¦           ¦       ic_launcher_round.webp
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---values
+¦   ¦   ¦   ¦           ¦       values.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---values-night-v8
+¦   ¦   ¦   ¦           ¦       values-night-v8.xml
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---xml
+¦   ¦   ¦   ¦                   backup_rules.xml
+¦   ¦   ¦   ¦                   data_extraction_rules.xml
+¦   ¦   ¦   ¦                   file_paths.xml
+¦   ¦   ¦   ¦                   
+¦   ¦   ¦   +---project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   ¦               ¦   45e485a33f55c932653947fb93fdc42aa7b39aa70959643af7f4a51ed4e20335_0.jar
+¦   ¦   ¦   ¦               ¦   45e485a33f55c932653947fb93fdc42aa7b39aa70959643af7f4a51ed4e20335_1.jar
+¦   ¦   ¦   ¦               ¦   45e485a33f55c932653947fb93fdc42aa7b39aa70959643af7f4a51ed4e20335_2.jar
+¦   ¦   ¦   ¦               ¦   45e485a33f55c932653947fb93fdc42aa7b39aa70959643af7f4a51ed4e20335_3.jar
+¦   ¦   ¦   ¦               ¦   45e485a33f55c932653947fb93fdc42aa7b39aa70959643af7f4a51ed4e20335_4.jar
+¦   ¦   ¦   ¦               ¦   45e485a33f55c932653947fb93fdc42aa7b39aa70959643af7f4a51ed4e20335_5.jar
+¦   ¦   ¦   ¦               ¦   
+¦   ¦   ¦   ¦               +---com
+¦   ¦   ¦   ¦                   +---example
+¦   ¦   ¦   ¦                       +---medmonkey
+¦   ¦   ¦   ¦                           ¦   MainActivity.dex
+¦   ¦   ¦   ¦                           ¦   MapPickerActivity.dex
+¦   ¦   ¦   ¦                           ¦   
+¦   ¦   ¦   ¦                           +---background
+¦   ¦   ¦   ¦                           ¦       PrescriptionDrugWorker.dex
+¦   ¦   ¦   ¦                           ¦       
+¦   ¦   ¦   ¦                           +---data
+¦   ¦   ¦   ¦                           ¦   +---local
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   AppDatabase.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   AppDatabase_Impl$1.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   AppDatabase_Impl.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦   
+¦   ¦   ¦   ¦                           ¦   ¦   +---dao
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$1.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$2.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$3.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$4.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$5.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl$6.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       PrescriptionDrugDao_Impl.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao_Impl$1.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao_Impl$2.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       TimeTermDao_Impl.dex
+¦   ¦   ¦   ¦                           ¦   ¦   ¦       
+¦   ¦   ¦   ¦                           ¦   ¦   +---entitiy
+¦   ¦   ¦   ¦                           ¦   ¦           PrescriptionDrug.dex
+¦   ¦   ¦   ¦                           ¦   ¦           TimeTermEntity.dex
+¦   ¦   ¦   ¦                           ¦   ¦           
+¦   ¦   ¦   ¦                           ¦   +---provider
+¦   ¦   ¦   ¦                           ¦           PrescriptionDrugContentProvider.dex
+¦   ¦   ¦   ¦                           ¦           
+¦   ¦   ¦   ¦                           +---ui
+¦   ¦   ¦   ¦                               ¦   AddDrugFragment.dex
+¦   ¦   ¦   ¦                               ¦   DrugDetailFragment.dex
+¦   ¦   ¦   ¦                               ¦   DrugListFragment.dex
+¦   ¦   ¦   ¦                               ¦   ExportFragment.dex
+¦   ¦   ¦   ¦                               ¦   TestContentProviderFragment.dex
+¦   ¦   ¦   ¦                               ¦   
+¦   ¦   ¦   ¦                               +---adapter
+¦   ¦   ¦   ¦                                       PrescriptionDrugAdapter$OnItemClickListener.dex
+¦   ¦   ¦   ¦                                       PrescriptionDrugAdapter$ViewHolder.dex
+¦   ¦   ¦   ¦                                       PrescriptionDrugAdapter.dex
+¦   ¦   ¦   ¦                                       
+¦   ¦   ¦   +---runtime_symbol_list
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               R.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---signing_config_versions
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---writeDebugSigningConfigVersions
+¦   ¦   ¦   ¦               signing-config-versions.json
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---source_set_path_map
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---mapDebugSourceSetPaths
+¦   ¦   ¦   ¦               file-map.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---stable_resource_ids_file
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               stableIds.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---sub_project_dex_archive
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---dexBuilderDebug
+¦   ¦   ¦   ¦           +---out
+¦   ¦   ¦   +---symbol_list_with_package_name
+¦   ¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦       +---processDebugResources
+¦   ¦   ¦   ¦               package-aware-r.txt
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---validate_signing_config
+¦   ¦   ¦       +---debug
+¦   ¦   ¦           +---validateSigningDebug
+¦   ¦   +---outputs
+¦   ¦   ¦   +---logs
+¦   ¦   ¦           manifest-merger-debug-report.txt
+¦   ¦   ¦           
+¦   ¦   +---tmp
+¦   ¦       +---compileDebugJavaWithJavac
+¦   ¦           ¦   previous-compilation-data.bin
+¦   ¦           ¦   
+¦   ¦           +---compileTransaction
+¦   ¦               +---backup-dir
+¦   ¦               +---stash-dir
+¦   ¦                       AddDrugFragment.class.uniqueId14
+¦   ¦                       AppDatabase.class.uniqueId23
+¦   ¦                       AppDatabase_Impl$1.class.uniqueId12
+¦   ¦                       AppDatabase_Impl.class.uniqueId24
+¦   ¦                       AppDatabase_Impl.java.uniqueId17
+¦   ¦                       DrugDetailFragment.class.uniqueId5
+¦   ¦                       DrugListFragment.class.uniqueId28
+¦   ¦                       ExportFragment.class.uniqueId15
+¦   ¦                       MainActivity.class.uniqueId0
+¦   ¦                       MapPickerActivity.class.uniqueId26
+¦   ¦                       PrescriptionDrugAdapter$OnItemClickListener.class.uniqueId1
+¦   ¦                       PrescriptionDrugAdapter$ViewHolder.class.uniqueId22
+¦   ¦                       PrescriptionDrugAdapter.class.uniqueId6
+¦   ¦                       PrescriptionDrugContentProvider.class.uniqueId13
+¦   ¦                       PrescriptionDrugDao.class.uniqueId8
+¦   ¦                       PrescriptionDrugDao_Impl$1.class.uniqueId21
+¦   ¦                       PrescriptionDrugDao_Impl$2.class.uniqueId10
+¦   ¦                       PrescriptionDrugDao_Impl$3.class.uniqueId25
+¦   ¦                       PrescriptionDrugDao_Impl$4.class.uniqueId9
+¦   ¦                       PrescriptionDrugDao_Impl$5.class.uniqueId4
+¦   ¦                       PrescriptionDrugDao_Impl$6.class.uniqueId19
+¦   ¦                       PrescriptionDrugDao_Impl.class.uniqueId2
+¦   ¦                       PrescriptionDrugDao_Impl.java.uniqueId18
+¦   ¦                       PrescriptionDrugWorker.class.uniqueId11
+¦   ¦                       TestContentProviderFragment.class.uniqueId7
+¦   ¦                       TimeTermDao_Impl$1.class.uniqueId27
+¦   ¦                       TimeTermDao_Impl$2.class.uniqueId16
+¦   ¦                       TimeTermDao_Impl.class.uniqueId20
+¦   ¦                       TimeTermDao_Impl.java.uniqueId3
+¦   ¦                       
+¦   +---src
+¦       +---androidTest
+¦       ¦   +---java
+¦       ¦       +---com
+¦       ¦           +---example
+¦       ¦               +---medmonkey
+¦       ¦                       ExampleInstrumentedTest.java
+¦       ¦                       
+¦       +---main
+¦       ¦   ¦   AndroidManifest.xml
+¦       ¦   ¦   ic_launcher-playstore.png
+¦       ¦   ¦   
+¦       ¦   +---java
+¦       ¦   ¦   +---com
+¦       ¦   ¦       +---example
+¦       ¦   ¦           +---medmonkey
+¦       ¦   ¦               ¦   MainActivity.java
+¦       ¦   ¦               ¦   MapPickerActivity.java
+¦       ¦   ¦               ¦   
+¦       ¦   ¦               +---background
+¦       ¦   ¦               ¦       PrescriptionDrugWorker.java
+¦       ¦   ¦               ¦       
+¦       ¦   ¦               +---data
+¦       ¦   ¦               ¦   +---local
+¦       ¦   ¦               ¦   ¦   ¦   AppDatabase.java
+¦       ¦   ¦               ¦   ¦   ¦   
+¦       ¦   ¦               ¦   ¦   +---dao
+¦       ¦   ¦               ¦   ¦   ¦       PrescriptionDrugDao.java
+¦       ¦   ¦               ¦   ¦   ¦       TimeTermDao.java
+¦       ¦   ¦               ¦   ¦   ¦       
+¦       ¦   ¦               ¦   ¦   +---entitiy
+¦       ¦   ¦               ¦   ¦           PrescriptionDrug.java
+¦       ¦   ¦               ¦   ¦           TimeTermEntity.java
+¦       ¦   ¦               ¦   ¦           
+¦       ¦   ¦               ¦   +---provider
+¦       ¦   ¦               ¦           PrescriptionDrugContentProvider.java
+¦       ¦   ¦               ¦           
+¦       ¦   ¦               +---ui
+¦       ¦   ¦                   ¦   AddDrugFragment.java
+¦       ¦   ¦                   ¦   DrugDetailFragment.java
+¦       ¦   ¦                   ¦   DrugListFragment.java
+¦       ¦   ¦                   ¦   ExportFragment.java
+¦       ¦   ¦                   ¦   TestContentProviderFragment.java
+¦       ¦   ¦                   ¦   
+¦       ¦   ¦                   +---adapter
+¦       ¦   ¦                           PrescriptionDrugAdapter.java
+¦       ¦   ¦                           
+¦       ¦   +---res
+¦       ¦       ¦   export.png
+¦       ¦       ¦   
+¦       ¦       +---drawable
+¦       ¦       ¦       add.png
+¦       ¦       ¦       calendar.png
+¦       ¦       ¦       calendar2.png
+¦       ¦       ¦       clipboard.png
+¦       ¦       ¦       file.png
+¦       ¦       ¦       ic_launcher_background.xml
+¦       ¦       ¦       ic_launcher_foreground.xml
+¦       ¦       ¦       ic_location.png
+¦       ¦       ¦       medmonkey1.png
+¦       ¦       ¦       
+¦       ¦       +---drawable-hdpi
+¦       ¦       ¦       ic_calendar.png
+¦       ¦       ¦       ic_location_pin.png
+¦       ¦       ¦       ic_test.png
+¦       ¦       ¦       
+¦       ¦       +---drawable-mdpi
+¦       ¦       ¦       ic_calendar.png
+¦       ¦       ¦       ic_location_pin.png
+¦       ¦       ¦       ic_test.png
+¦       ¦       ¦       
+¦       ¦       +---drawable-xhdpi
+¦       ¦       ¦       ic_calendar.png
+¦       ¦       ¦       ic_location_pin.png
+¦       ¦       ¦       ic_test.png
+¦       ¦       ¦       
+¦       ¦       +---drawable-xxhdpi
+¦       ¦       ¦       ic_calendar.png
+¦       ¦       ¦       ic_location_pin.png
+¦       ¦       ¦       ic_test.png
+¦       ¦       ¦       
+¦       ¦       +---drawable-xxxhdpi
+¦       ¦       ¦       ic_calendar.png
+¦       ¦       ¦       ic_location_pin.png
+¦       ¦       ¦       ic_test.png
+¦       ¦       ¦       
+¦       ¦       +---layout
+¦       ¦       ¦       activity_main.xml
+¦       ¦       ¦       activity_map_picker.xml
+¦       ¦       ¦       fragment_add_drug.xml
+¦       ¦       ¦       fragment_drug_detail.xml
+¦       ¦       ¦       fragment_drug_list.xml
+¦       ¦       ¦       fragment_export.xml
+¦       ¦       ¦       fragment_test_content_provider.xml
+¦       ¦       ¦       item_prescription_drug.xml
+¦       ¦       ¦       
+¦       ¦       +---menu
+¦       ¦       ¦       bottom_nav_menu.xml
+¦       ¦       ¦       
+¦       ¦       +---mipmap-anydpi
+¦       ¦       +---mipmap-anydpi-v26
+¦       ¦       ¦       ic_launcher.xml
+¦       ¦       ¦       ic_launcher_round.xml
+¦       ¦       ¦       
+¦       ¦       +---mipmap-hdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_foreground.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-mdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_foreground.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-xhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_foreground.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-xxhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_foreground.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---mipmap-xxxhdpi
+¦       ¦       ¦       ic_launcher.webp
+¦       ¦       ¦       ic_launcher_foreground.webp
+¦       ¦       ¦       ic_launcher_round.webp
+¦       ¦       ¦       
+¦       ¦       +---values
+¦       ¦       ¦       colors.xml
+¦       ¦       ¦       strings.xml
+¦       ¦       ¦       themes.xml
+¦       ¦       ¦       
+¦       ¦       +---values-night
+¦       ¦       ¦       themes.xml
+¦       ¦       ¦       
+¦       ¦       +---xml
+¦       ¦               backup_rules.xml
+¦       ¦               data_extraction_rules.xml
+¦       ¦               file_paths.xml
+¦       ¦               
+¦       +---test
+¦           +---java
+¦               +---com
+¦                   +---example
+¦                       +---medmonkey
+¦                               ExampleUnitTest.java
+¦                               
++---build
+¦   +---reports
+¦       +---problems
+¦               problems-report.html
+¦               
++---gradle
+    ¦   libs.versions.toml
+    ¦   
+    +---wrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+            
