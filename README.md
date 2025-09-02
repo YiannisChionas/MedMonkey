@@ -1,4 +1,4 @@
-# <img width="1024" height="1024" alt="medmonkey1" src="https://github.com/user-attachments/assets/9fe468f5-8897-4daa-9dab-edf79c47b1d1" /> MedMonkey
+# <img width="256" height="256" alt="medmonkey1" src="https://github.com/user-attachments/assets/9fe468f5-8897-4daa-9dab-edf79c47b1d1" /> MedMonkey
 
 **MedMonkey** is an Android application developed in **Java** that helps users manage their prescription medications.  
 It follows an **offline-first architecture** using Room Database and provides secure data access to external applications via a custom `ContentProvider`.  
